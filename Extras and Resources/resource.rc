@@ -1,0 +1,24 @@
+MAINICON ICON "user.ico"
+
+1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904E4"
+        BEGIN
+            VALUE "CompanyName", "Microsoft Corporation"
+            VALUE "FileDescription", "Windows System Utility"
+            VALUE "FileVersion", "1.0.0.0"
+            VALUE "InternalName", "sys_util"
+            VALUE "LegalCopyright", "© Microsoft Corporation"
+            VALUE "OriginalFilename", "Launcher.exe"
+            VALUE "ProductName", "Windows Essentials"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1252
+    END
+END
