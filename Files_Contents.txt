@@ -1,0 +1,11 @@
+What each folder has:
+1. Attacker Side: has the code for the .dll library (in C++) and the attacker's listener code.
+2. Needed Additional Code: has the launcher script (the .exe for testing results), the background needed, the background
+   image and the infected one (VERY_COOL_WALLPAPER.jpg), a .txt file that includes a powershell script that activates the
+   .dll file without .exe files. And you can see also two screenshots taken from VirusTotal website for proof that the 
+   codes are almost undetected (scored 3/72 for the .dll).
+3. Victim Side: has the needed and ready codes: A copy of the needed background image, the .dll file, and an extra .exe file
+   if you want instant testing.
+
+Project done by Bahaa Nofal. 
+Github: Bahfo
